@@ -1,4 +1,4 @@
-# Default is World lalala
+# Default is World
 # Author: Jim Weirich (jim@somewhere.com)
 name = ARGV.first || "World"
 
